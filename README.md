@@ -44,7 +44,7 @@ Developed by: M THEJESWARAN
 RegisterNumber:212223240168
 
 ```
- module JK_FF(q, qb,j,k,clock,reset);
+module JK_FF(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
 	 
