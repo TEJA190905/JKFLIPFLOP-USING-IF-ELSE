@@ -43,7 +43,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 Developed by: M THEJESWARAN
 RegisterNumber:212223240168
 
-
+```
  module JK_FF(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
@@ -79,6 +79,7 @@ else
  
 end           
 endmodule
+```
 
 */
 
